@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hallucia
+- 👀 I’m proffesionally coding for a company, mainly react and .net. I have some experience in accessibility, owasp & EPiServer / Optimizely.
+- 🌱 I’m currently learning by working. Eventually looking into working with cloud stuff more hands-on.
+- 💞️ I’m looking to collaborate on anything really.
+- 📫 Reach me at Developer@7dsins.com

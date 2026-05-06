@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Hallucia
-- 👀 I have been proffesionally coding for a company for 4 years, mainly working with react and .net. I'm an expert in web-accessibility (WCAG), and have insights with owasp & EPiServer / Optimizely.
+- 👀 I have been proffesionally coding for a company for 5 years, mainly working with react and .net. I'm an expert in web-accessibility (WCAG), and have insights with owasp & EPiServer / Optimizely.
 - 💞️ I’m looking to collaborate on anything related to web accessibility.
 - 📫 Reach me at Developer@7dsins.com
